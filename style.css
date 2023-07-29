@@ -1,0 +1,38 @@
+.pagr {
+  background-color: #3abd37;
+}
+.sarasas {
+  background-color: #b49c60;
+}
+.lentele {
+  background-color: #fcbb29;
+}
+.kontakt {
+  background-color: #f11111;
+}
+h1 {
+  color: BLUE;
+}
+p,
+ul,
+ol {
+  font-family: arial;
+}
+table {
+  color: #000000;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #000000;
+}
+th {
+  border: 2px solid #000000;
+}
+.kitoks > h1 {
+  color: YELLOW;
+  border: 2px solid #561234;
+}
+.blue {
+  color: BLUE;
+}
